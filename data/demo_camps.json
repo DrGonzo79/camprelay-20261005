@@ -1,0 +1,10 @@
+{
+  "updated":"October 5, 2026",
+  "camps":[
+    {"id":"soccer-july","name":"Riverbend Soccer Week","category":"Sports","month":"July","price":340,"aftercare":true,"opens":"2027-01-12T09:00:00-05:00","distance":4,"spots":"High demand","fit":96,"note":"Half-day skills camp with optional aftercare."},
+    {"id":"science-july","name":"Curiosity Lab","category":"Science","month":"July","price":375,"aftercare":true,"opens":"2027-02-03T08:00:00-05:00","distance":7,"spots":"Usually waitlists","fit":91,"note":"Hands-on science backup matching the family brief."},
+    {"id":"nature-july","name":"Pine & Puddle Explorers","category":"Outdoors","month":"July","price":295,"aftercare":false,"opens":"2027-01-20T10:00:00-05:00","distance":11,"spots":"Moderate demand","fit":68,"note":"Lower cost, but no aftercare in this demo."},
+    {"id":"robotics-august","name":"BrightBot Builders","category":"Technology","month":"August","price":420,"aftercare":true,"opens":"2027-02-10T09:00:00-05:00","distance":6,"spots":"High demand","fit":72,"note":"Strong program; exceeds the default budget and month."},
+    {"id":"arts-july","name":"Colorwheel Studio Camp","category":"Arts","month":"July","price":260,"aftercare":true,"opens":"2027-03-01T12:00:00-05:00","distance":9,"spots":"Moderate demand","fit":84,"note":"Affordable aftercare option with a later opening."}
+  ]
+}

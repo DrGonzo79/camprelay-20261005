@@ -1,0 +1,13 @@
+[project]
+name = "camprelay-api"
+version = "0.1.0"
+description = "Deterministic camp matching and registration-readiness API"
+requires-python = ">=3.12"
+dependencies = ["fastapi==0.117.1", "pydantic==2.11.9", "uvicorn==0.36.0"]
+
+[dependency-groups]
+dev = ["httpx==0.28.1", "pytest==8.4.2"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
